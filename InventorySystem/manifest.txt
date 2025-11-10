@@ -1,0 +1,2 @@
+Main-Class: com.inventory.AppMain
+Class-Path: lib/mysql-connector-j-8.0.33.jar
